@@ -1,10 +1,4 @@
 #
-# Colorscheme
-#
-
-colorscheme lucius
-
-#
 # Enable line numbers
 #
 
